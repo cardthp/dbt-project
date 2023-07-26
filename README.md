@@ -3,4 +3,6 @@ This Project is using dbt tools to create about a Transcation and Customer detai
 
 ![dbt](https://github.com/cardthp/dbt-project/assets/38577548/744e919a-3f1d-45db-8ada-d015a31bf404) ![bigquery](https://github.com/cardthp/dbt-project/assets/38577548/d7055537-2082-4802-8eec-0fe7e39e9ef8)
 
+![Jaffle_Shop](https://github.com/cardthp/dbt-project/assets/38577548/b430ef7b-161d-482a-923c-f94a39ce41e3)
+
 ![Lineage](https://github.com/cardthp/dbt-project/assets/38577548/3d32553b-7f68-4bde-9e7c-fdd1fac0f5d9)
