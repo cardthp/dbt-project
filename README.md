@@ -1,5 +1,6 @@
 dbt project is about Transcation and customer detail about store name "Jaffle Shop"
 This project is connected with Google Bigquery using dbt-core (Optional you can using dbt cloud but free trial for 14 days)
+![3de946d79a6044bb765fa1bc6bd1a20d](https://github.com/cardthp/dbt-project/assets/38577548/dbf6e2ab-1b57-4b2d-8141-f001af5e3839)
 
 How to Start
 1.Starting with pip install dbt-core / dbt-bigquery
