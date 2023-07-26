@@ -6,8 +6,13 @@ How to Start
 4.Key > Create a new key > Save as JSON file on Computer
 5.dbt init (it's need to fill a detail of BQ project and location where the key stored)
 6.Check by $dbt debug
-6.(Optional) Profile.yml is located at C:\Users\(name_of_your_computer)\.dbt and I copyied to directory as same as project
-7.(Optional) Key need to be a private however I stored on computer instead of upload to Github
+7.Upload raw_data to Google Bigquery
+
+(Optional) 
+1.Profile.yml is located at C:\Users\(name_of_your_computer)\.dbt and I copyied to directory as same as project
+2.Key need to be a private however I stored on computer instead of upload to Github
+
+
 
 --Addition about operator
 $dbt run                               # run all model
